@@ -1,6 +1,6 @@
 package Strings;
 
-public class RotationOfAnotherString_05 {
+public class Pgm_05_RotationOfAnotherString {
     public static boolean checkRotationOfAnotherString(String s1, String s2) {
         if(s1.length() != s2.length()) return false;
         String newS = s1 + s1;

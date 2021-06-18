@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Min_jump_array_10 {
+public class Pgm_10_Min_jump_array {
     public static int findMinJumpArray(int arr[]) {
         int jump = 1, maxReach = arr[0], step = arr[0];
 

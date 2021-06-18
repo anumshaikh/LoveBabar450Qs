@@ -1,6 +1,6 @@
 package Strings;
 
-public class Reverse_01 {
+public class Pgm_01_Reverse {
 
     public static String reverse_bruteforce(String reverse){
         String newString="";

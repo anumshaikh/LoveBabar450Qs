@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Sort_PosNo_NegNo {
+public class Pgm_05_Sort_PosNo_NegNo {
     static void dutchFlagApproach(int arr[]) {
 
         int low = 0, mid = 0, high = arr.length - 1, temp = 0;

@@ -125,6 +125,11 @@ public class MinHeap implements MinHeapInterface {
         }
     }
 
+    @Override
+    public String toString() {
+        return "MinHeap [capacity=" + capacity + ", item=" + Arrays.toString(item) + ", size=" + size + "]";
+    }
+
     public static void main(String[] args) {
         int arr[] = { 100, 60, -100, 1, 55, 10, 9, 8, 7, -1 };
         MinHeap minheap = new MinHeap();
@@ -136,7 +141,7 @@ public class MinHeap implements MinHeapInterface {
         int ele = minheap.poll();
         ele = minheap.poll();
         ele = minheap.poll();
-        System.out.println("\n  smallest number" + ele);
+        System.out.println("\n  smallest number " + ele);
 
     }
 }

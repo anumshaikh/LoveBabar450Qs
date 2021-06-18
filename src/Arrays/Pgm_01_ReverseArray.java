@@ -1,6 +1,6 @@
 package Arrays;
 
-public class ReverseArray {
+public class Pgm_01_ReverseArray {
 
     // This function will print in O(N) time
     public static int[] reverse(int arr[]) {

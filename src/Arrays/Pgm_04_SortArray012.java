@@ -1,6 +1,6 @@
 package Arrays;
 
-public class SortArray012 {
+public class Pgm_04_SortArray012 {
 
     public static void countapproch(int arr[]) {
         int count0 = 0, count1 = 0, count2 = 0;

@@ -3,7 +3,7 @@ package Arrays;
 import DataStructure.MinHeap;
 import Sorting.MergeSort;
 
-public class FindKthMinMax {
+public class Pgm_03_FindKthMinMax {
 
     public static void main(String[] args) {
         int arr[] = { 100, 60, 40, 1, 55, 10, 9, 8, 7, -1 };
@@ -21,6 +21,9 @@ public class FindKthMinMax {
         MinHeap minHeap = new MinHeap();
         for (int a : arr)
             minHeap.add(a);
+
+
+        System.out.println(minHeap);
 
         // poll k times to get k min element
         int smallele = -1;

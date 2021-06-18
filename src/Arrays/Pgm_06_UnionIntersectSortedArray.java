@@ -1,12 +1,11 @@
 package Arrays;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 //WAP to find Union and intersection of 2 Sorted Arrays
-public class UnionIntersectSortedArray {
+public class Pgm_06_UnionIntersectSortedArray {
 
     // Find Union
 

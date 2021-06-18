@@ -3,7 +3,7 @@ package Strings;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PrintAllSubsequence_10 {
+public class Pgm_10_PrintAllSubsequence {
     static List<String> list = new ArrayList<String>();
 
     public static void addSubsequenceList(String text, String ans) {

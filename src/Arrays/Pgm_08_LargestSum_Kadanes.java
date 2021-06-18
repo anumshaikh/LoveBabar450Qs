@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LargestSum_Kadanes_08 {
+public class Pgm_08_LargestSum_Kadanes {
     public static int max(int a,int b){
         return a>b?a:b;
     }

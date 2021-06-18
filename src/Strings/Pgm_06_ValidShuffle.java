@@ -1,6 +1,6 @@
 package Strings;
 
-public class ValidShuffle_06 {
+public class Pgm_06_ValidShuffle {
     public static boolean isValidShuffle(String res, String s1, String s2) {
 
         int len1 = s1.length(), len2 = s2.length(), lenres = res.length();

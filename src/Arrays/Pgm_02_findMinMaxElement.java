@@ -4,7 +4,7 @@ class Pair {
     int min, max;
 }
 
-public class findMinMaxElement {
+public class Pgm_02_findMinMaxElement {
 
     // Brute force approach, navigate entire array T.c. = o(n)
     // Approach 2 Tournament Approach

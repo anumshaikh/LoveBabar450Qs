@@ -1,6 +1,6 @@
 package Strings;
 
-public class CountAndSay_07 {
+public class Pgm_07_CountAndSay {
 
     public static String Print_CountandSay(int series) {
         String newResult = "";

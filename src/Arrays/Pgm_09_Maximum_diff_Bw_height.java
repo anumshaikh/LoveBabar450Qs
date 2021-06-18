@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class Maximum_diff_Bw_height_09 {
+public class Pgm_09_Maximum_diff_Bw_height {
 
     // BruteForce
     public static int findMinimumDiffBwHeight(int arr[]) {

@@ -1,6 +1,6 @@
 package Strings;
 
-public class LongestRecurrence_09 {
+public class Pgm_09_LongestRecurrence {
     static int max(int a,int b){
         return a>b?a:b;
     }

@@ -1,6 +1,6 @@
 package Strings;
 
-public class LongestPalindromeSubstring_08 {
+public class Pgm_08_LongestPalindromeSubstring {
 
     public static String findLongestPalindromeSubString(String text) {
 

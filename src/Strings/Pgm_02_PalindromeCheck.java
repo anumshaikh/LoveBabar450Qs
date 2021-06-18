@@ -1,6 +1,6 @@
 package Strings;
 
-public class PalindromeCheck_02 {
+public class Pgm_02_PalindromeCheck {
 
     public static boolean PalindromeCheck(String text, int start, int end) {
         if (start == end)
@@ -16,7 +16,7 @@ public class PalindromeCheck_02 {
     public static void main(String[] args) {
 
         String text = "malayalam";
-        String reverseText = Reverse_01.reverse_BySwap(text);
+        String reverseText = Pgm_01_Reverse.reverse_BySwap(text);
         if (text.equals(reverseText))
             System.out.println(text + " Its a Palindrome");
         else

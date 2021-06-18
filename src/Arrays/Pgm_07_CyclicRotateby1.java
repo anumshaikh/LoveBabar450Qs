@@ -1,6 +1,6 @@
 package Arrays;
 
-public class CyclicRotateby1_07 {
+public class Pgm_07_CyclicRotateby1 {
 
     public static void cyclicLeftRotatearray(int arr[]) {
         int firstele = arr[0];

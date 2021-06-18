@@ -1,6 +1,6 @@
 package Strings;
 
-public class FindDuplicate_03 {
+public class Pgm_03_FindDuplicate {
     static int count[]=new int[256];
     //Approach 1  , TC : o(N) , SC : O(256)
     //Appraoch 2 , Using maps , TC()
